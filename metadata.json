@@ -1,0 +1,5 @@
+{
+  "name": "Enhanced Batch OCR Agent",
+  "description": "An advanced online platform that supports uploading multiple image files simultaneously and uses artificial intelligence to extract text from images.",
+  "requestFramePermissions": []
+}
